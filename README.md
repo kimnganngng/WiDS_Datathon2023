@@ -6,3 +6,5 @@ This model using a pre-prepared dataset consisting of weather and climate inform
 Source for more clarification: https://www.kaggle.com/kimnganngng/competitions?tab=completed
 
 Datathon source: https://www.kaggle.com/competitions/widsdatathon2023
+
+Data source: https://www.kaggle.com/competitions/widsdatathon2023/data
